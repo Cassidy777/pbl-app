@@ -55,7 +55,7 @@ export default function Home() {
                 やっているバイト
               </Heading>
               <Text pt='2' fontSize='sm'>
-                塾バイト
+                塾バイト,　居酒屋バイト
               </Text>
             </Box>
           </Stack>
