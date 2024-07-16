@@ -71,6 +71,7 @@ export default function Home() {
     <Button flex='1' variant='ghost' leftIcon={<BiShare />}>
       Share
     </Button>
+
     </>
   );
 }
